@@ -1,5 +1,5 @@
 # LUCK TOKEN
-# This is sample of ERC20 Block Chain System 
+## This is sample of ERC20 Block Chain System 
 
 ### Langauge : Solidity
 ### build : Remix
