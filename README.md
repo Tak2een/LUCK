@@ -3,7 +3,7 @@
 
 ### Langauge : Solidity
 ### build : Remix
-### Debug : EtherScan (BSC Network
+### Debug : EtherScan (BSC Network)
 ### Compiler : Param 12.0.1
 
 
